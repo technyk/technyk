@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @technyk
-- 👀 I’m interested in cs:go map making, mostly for the mod Jailbreak
+- 👀 I’m interested in cs:go map making, programming in javascript and lua
 - 🌱 I’m currently learning java programming language
 - 📫 You can reach me thru discord: Many#8454
 
