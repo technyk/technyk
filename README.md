@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @technyk
-- 👀 I’m interested in cs:go map making, programming in javascript and lua
-- 🌱 I’m currently learning java programming language
+- 👀 I’m interested in programming in JavaScript and Lua
+- 🌱 I’m currently learning Java
 - 📫 You can reach me thru discord: Many#8454
 
 <!---
