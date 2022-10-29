@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @technyk
-- 👀 I can code in JavaScript, Node.js, Lua, Skript
+- 👀 I'm a programmer capable of programming in JavaScript, Node.js, Lua, Skript
 - 🌱 I’m currently learning Java and SourcePawn
 - 📫 You can reach me thru discord: Many#8454
 
