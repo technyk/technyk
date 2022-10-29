@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @technyk
-- 👀 I’m interested in programming in JavaScript and Lua
-- 🌱 I’m currently learning Java
+- 👀 I can code in JavaScript, Node.js, Lua, Skript
+- 🌱 I’m currently learning Java and SourcePawn
 - 📫 You can reach me thru discord: Many#8454
 
 <!---
