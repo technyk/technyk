@@ -16,7 +16,7 @@
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>
 <a href="https://www.lua.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/200px-Lua-Logo.svg.png" alt="Lua" height="50" /></a>
 <a href="https://github.com/SkriptLang" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/39464898?s=200&v=4" alt="Skript" height="50" /></a>
-<a href="https://github.com/alliedmodders/sourcepawn" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/6601917?s=200&v=4" alt="SourcePawn" height="50" /></a>
+<a href="https://github.com/alliedmodders/sourcepawn" target="_blank"><img style="margin: 10px" src="https://github.com/technyk/technyk/assets/54066232/7bfc1dd3-9bd6-4066-ba26-e77de542b3ba" alt="SourcePawn" height="50" /></a>
 <a href="https://www.spigotmc.org/" target="_blank"><img style="margin: 10px" src="https://static.spigotmc.org/img/spigot.png" alt="Spigot" height="50" /></a>
 </div>
 
