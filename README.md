@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @technyk
-- 🌱 I’m currently learning Java and SourcePawn
-- 📫 You can reach me thru discord: Many#8454
+- 🌱 I’m currently learning PHP and SQL
+- 📫 You can reach me thru discord: technyk
 
 ### My Skill Set  
 
