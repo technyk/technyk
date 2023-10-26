@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @technyk
-- 🌱 I’m currently learning PHP and SQL
+- 🌱 I’m currently learning PHP and C#
 - 📫 You can reach me thru discord: technyk
 
 ### My Skill Set  
